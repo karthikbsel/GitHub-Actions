@@ -1,6 +1,6 @@
 # app.py
 # This is a test commit
-# this a updated commit now by ashok
+# this is a tets commit now
 def add(a, b):
     return a + b
 
