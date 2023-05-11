@@ -1,6 +1,7 @@
 # app.py
 # This is a test commit
 # this is a tets commit now
+# this is minor update
 def add(a, b):
     return a + b
 
